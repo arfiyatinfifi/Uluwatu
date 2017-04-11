@@ -44,7 +44,7 @@
 - [Umul Sidiqoh](https://github.com/umulsidikoh)
 - [TRISFAIZAL](https://github.com/trisfaizal)
 - Adnan Maulanan
-- Laili Alfi Arfiyatin
+- Laili Alfi Arfiyatin (https://github.com/arfiyatinfifi)
 - Endra Yustina Arianto
 - Kuriyanto Adi Saputro
 - Anchuxo
